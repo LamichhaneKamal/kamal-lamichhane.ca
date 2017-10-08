@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<!--
+	Copyright: HTML 5 UP
+-->
+<html>
+	<head>
+		<title>Work Experience</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Main -->
+				<div id="projects_page" class="wrapper style2">
+					<!-- Nav -->
+						<nav id="nav" class="nav collapse">
+							<ul class="navList">
+								<li><a href="../index.html#header-wrapper" id="to_home">Home</a></li>
+								<li><a href="../index.html#introduction" id="to_intro">Introduction</a></li>
+								<li><a href="../index.html#research" id="to_research">Research</a></li>
+								<li><a href="../index.html#publications" id="to_publications">Publications</a></li>
+								<li><a href="../index.html#summary" id="to_summary">Summary</a></li>
+								<li><a href="../index.html#contactme" id="to_contact">Contact Me</a></li>
+								<li><a href="../documents/Resume.pdf" target="_blank">Resume</a></li>
+							</ul>
+						</nav>
+					<div id="main" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+
+								<!-- Sidebar -->
+									<div id="sidebar">
+										<section class="box">
+											<header class="style1">
+												<h3><u>Glance</u></h3> <br>
+												<img src="images/STUDSAT.jpg" width="80%;"> <center><figcaption> STUDSAT-2, Command and Data Handlings group </figcaption><center> <br>
+												<img src="images/inag.JPG" width="80%;"> <center><figcaption> Anaadynata Tech 2015-NMIT Inauguration</figcaption><center> <br>
+												<img src="images/pre.jpg" width="80%;"> <center><figcaption> Poster Presentation</figcaption><center> <br>
+												<img src="images/bst.jpg" width="80%;"> <center><figcaption> Best Paper Award Recipient</figcaption><center> <br>
+												<img src="images/stdsat.jpg" width="80%;"> <center><figcaption> STUDSAT-2 at International Space Exhibition</figcaption><center> <br>
+												
+											</header>
+											<center><a href="../index.html#summary" class="button style1 big"> <p> &#x21A9;Summary</p></a><center>
+											
+										</section>
+
+										
+								
+									</div>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)">
+
+								<!-- Content -->
+									<div id="content">
+										<article class="box post">
+											
+<h3><u>Work Experience</u></h3>
+ 	<table style="color: #484d55;">
+	 <col width="100%"> 
+
+		<tr>
+		<td> <h3><u><b> Embedded Software Developer-Intern, </b> at Magna Electronics</u> <b>-</b> Brampton, ON, CA, <u> May 2016- August 2016</u></h3> 
+• Working on Embedded Software Development for ADAS complying to Automotive Functional Safety(ISO-26262). <br>
+------Deatils To be Updated------- </td> 
+			</tr>
+
+
+		<td><hr /></td>
+		
+				<tr>
+		<td> <h3><u><b> Graduate Teaching Assistant, </b> at University of Waterloo</u> <b>-</b> Operating System (SE-350), Waterloo, CA, <u> Jan 2016- April 2016</u></h3> 
+• Designed a simple operating system (OS) which provides a basic multiprogramming environment,
+with five priority levels, preemption, simple memory management, message-based interprocess
+communication, a basic timing service, system console I/O and debugging support.<br>
+• Evaluated quizzes, exams and lab project (RTX project in LPC 1760) <br>
+• Delivered in-class tutorials for lab project. </td> 
+			</tr>
+
+		<td><hr /></td>
+		
+		
+		<tr>
+		<td> <h3><u><b> Graduate Research Student, </b> at University of Waterloo</u> <b>-</b> Real-time Laboratory, UoWaterloo, CA, <u> sept 2015- sept 2017</u></h3> 
+• Evaluated the performance of Specification Based Bug Detection for Embedded Software - auto-
+matically analyzes specifications in order to generate concrete rules for the detection of constraint violations,
+and addition of runtime checks from processor specification pdf’s. <br>
+• Non-Intrusive Co-operative System Tracing Through Power Consumption - Implemented Co-
+operative multitasking operating system for AVR (atmega2560) and performed Non-Intrusive Co-operative
+multi-tasking OS Program tracing using Power Consumption. </td> 
+			</tr>
+
+		<td><hr /></td>
+		
+		
+		
+		<tr>
+		<td> <h3><u><b> Undergraduate Research Student </b> at Center for Small Satellite Research</u> <b>-</b> Command & Data Handling for Project STUDSAT-2, Bangalore, India, <u> August 2014- May 2015.</u></h3> 
+•Implemented Real Time operating system using FreeRTOS with sixty four uniquely identified
+Task for the proper operation of the satellite right from the ejection; which also helped in proper
+development of operational flow of the Project. <br>
+• Performed RTOS Evaluation; RAM overhead equations with kernel object & configuration, CPU
+processing Overhead test(overhead for a tick, for a periodic task, and to trigger a task from an
+ISR), and Total RTOS CPU Overhead Analysis.<br>
+• Developed Mission sequence for Project STUDSAT-2 right from ejection from PSLV till the end of
+life time of the satellite, meeting all the space constraints and specification of the project. <br>
+• Closely involved in HW/SW Integration of the overall project.<br>
+• Co-operated with Communication team to design the link budget for UHF and VHF range. </td> 
+			</tr>
+
+		<td><hr /></td>
+				<tr>
+		<td> <h3><u><b> Summer Research Fellowship Program-2014, </b> at Indian Institute of Science</u> <b>-</b> Antenna Designing & Modelling for Aircraft, Bangalore, India, <u> May 2014- July 2014.</u></h3> 
+• Designed, simulated and tested four wideband antennas (Vivaldi, Sinuous, Microstrip, Multi-arm
+Spiral Microstrip) for an aircraft application.<br>
+• The wideband multi arm spiral mode microstrip antenna has been shown to operate as a conformal,
+multifunctional antenna with multiple beams covering the entire hemisphere; also proven to be used
+for an application such as angle of arrival estimation and adaptive nulling at the element level. </td> 
+			</tr>
+
+		<td><hr /></td>
+		
+		
+
+
+</table>
+		
+		
+
+
+
+									</article>										
+										
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+
+		<style type="text/css">
+			img {
+				border: 3px solid grey;
+			}
+		</style>
+
+		<!-- Scripts -->
+
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+			<script src="../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../assets/js/skel.min.js"></script>
+			<script src="../assets/js/skel-viewport.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

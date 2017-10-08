@@ -1,0 +1,158 @@
+<!DOCTYPE HTML>
+<!--
+	Copyright: Akshay Goel
+-->
+<html>
+	<head>
+		<title>Academics</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Main -->
+				<div id="projects_page" class="wrapper style2">
+					<!-- Nav -->
+						<nav id="nav" class="nav collapse">
+							<ul class="navList">
+								<li><a href="../index.html#header-wrapper" id="to_home">Home</a></li>
+								<li><a href="../index.html#introduction" id="to_intro">Introduction</a></li>
+								<li><a href="../index.html#research" id="to_research">Research</a></li>
+								<li><a href="../index.html#publications" id="to_publications">Publications</a></li>
+								<li><a href="../index.html#summary" id="to_summary">Summary</a></li>
+								<li><a href="../index.html#contactme" id="to_contact">Contact Me</a></li>
+								<li><a href="../documents/Resume.pdf" target="_blank">Resume</a></li>
+							</ul>
+						</nav>
+					<div id="main" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+
+								<!-- Sidebar -->
+									<div id="sidebar">
+										<section class="box">
+											<header class="style1">
+												<h3><u>Glance-Student Life</u></h3> <br>
+												<img src="images/inag.JPG" width="80%;"> <center><figcaption> Anaadynata Tech 2015-NMIT Inauguration</figcaption><center> <br>
+												<img src="images/rcv.JPG" width="80%;"> <center><figcaption> Receiving Award at NMIT</figcaption><center> <br>
+												<img src="images/nmit.jpg" width="80%;"> <center><figcaption> 2011-2015 Nepalese student batch with Director NMIT </figcaption><center> <br>
+												
+												<img src="images/nandi2.jpg" width="80%;"> <center><figcaption> Nandi Hill</figcaption><center> <br>
+												
+												
+											</header>
+											<center><a href="../index.html#summary" class="button style1 big"> <p> &#x21A9;Summary</p></a><center>
+											
+										</section>
+
+										
+								
+									</div>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)">
+
+								<!-- Content -->
+									<div id="content">
+										<article class="box post">
+											
+<h2><u>Education</u></h2>
+ 	<table style="color: #484d55;">
+	 <col width="100%"> 
+
+		<td><hr /></td>
+		<tr>
+		<td> <b> University of Waterloo, Waterloo, ON, Canada.</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Sept 2015-August 2017 <br>
+		MASc in Electrical & Computer Engineering, Computer Software <br>
+Major in Embedded Systems & Software; Overall Percentage: 86 % <br>
+Algorithm Design and Analysis, Design and Analysis of Experiment, and Computer Aided Verification.
+                 </td> 
+		</tr>
+		<td><hr /></td>
+		
+		<tr>
+		<td> <b> Nitte Meenakshi Institute of Technology, Bangalore, India.</b> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Sept 2011-May 2015 <br>
+		B.E. in Electronics &Communication Engineering <br>
+Major in Embedded System, Circuits & System <br>
+Overall GPA: 9.73, Gold metal, Dept. of ECE <br>
+                 </td> 
+		</tr>
+		<td><hr /></td>
+		
+		<tr>
+		<td> <b> St. Lawrence Higher Secondary School, Kathmandu, Nepal</b>  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  Sept 2008-Sept 2010 <br>
+		HSEB (Class XI, Class XII) <br>
+Physics, Chemistry, Mathematics, Biology <br>
+Overall Percentage: 81.8 %, Second Position in College <br>
+                 </td> 
+		</tr>
+		<td><hr /></td>
+</table>
+
+
+
+<h2><u>Awards</u></h2>
+ 	<table style="color: #484d55;">
+	 <col width="100%"> 
+
+		<td><hr /></td>
+		<tr>
+		<td> 
+• Awarded ENG Senate Graduate Scholarship from the University of Waterloo.<br>
+• Currently holding Graduate Research Scholarship and International Master’s Student Award from
+the University of Waterloo. <br>
+• Received Gold Medal from the Electronics and Communication department, Nitte Meenakshi
+Institute of Technology, in Bachelor of Engineering. <br>
+• Project ”Smart-Helmet to Avoid Accident” is accepted in Texas Instruments Innovation Challenge
+India Design Contest 2015. <br>
+• Granted Full scholarship to pursue B.E from Embassy of India, Kathmandu Nepal. (Entrance
+-13th Rank). <br>
+• Awarded Academic Excellence Award in all semesters with overall GPA 9.75 in B.E, Electronics
+and Communication Engineering. <br>
+• Awarded Academic Excellence Award for being Second topper in college Intermediate level securing
+82%. <br>
+• Awarded Golden Jubilee scholarship from Embassy of India to pursue Bachelor of Science in Nepal. <br>
+• Awarded by Lions Club of Pokhara for securing highest marks in SLC among Government Schools. <br>
+                 </td> 
+		</tr>
+		<td><hr /></td>
+
+</table>
+
+
+		
+		
+
+
+
+									</article>										
+										
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+
+		<style type="text/css">
+			img {
+				border: 3px solid grey;
+			}
+		</style>
+
+		<!-- Scripts -->
+
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+			<script src="../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../assets/js/skel.min.js"></script>
+			<script src="../assets/js/skel-viewport.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

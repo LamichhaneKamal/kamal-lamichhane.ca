@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<!--
+	Copyright: Akshay Goel
+-->
+<html>
+	<head>
+		<title>Presentations & Talks</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Main -->
+				<div id="projects_page" class="wrapper style2">
+					<!-- Nav -->
+						<nav id="nav" class="nav collapse">
+							<ul class="navList">
+								<li><a href="../index.html#header-wrapper" id="to_home">Home</a></li>
+								<li><a href="../index.html#introduction" id="to_intro">Introduction</a></li>
+								<li><a href="../index.html#research" id="to_research">Research</a></li>
+								<li><a href="../index.html#publications" id="to_publications">Publications</a></li>
+								<li><a href="../index.html#summary" id="to_summary">Summary</a></li>
+								<li><a href="../index.html#contactme" id="to_contact">Contact Me</a></li>
+								<li><a href="../documents/Resume.pdf" target="_blank">Resume</a></li>
+							</ul>
+						</nav>
+					<div id="main" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+
+								<!-- Sidebar -->
+									<div id="sidebar">
+										<section class="box">
+											<header class="style1">
+												<h3><u>Glance</u></h3> <br>
+												<img src="images/sanio.jpg" width="80%;"> <center><figcaption> IEEE Conference at Italy </figcaption><center> <br>
+												<img src="images/Ana.JPG" width="80%;"> <center><figcaption> Talk at Anaadynata 2015-NMIT </figcaption><center> <br>
+												
+											</header>
+											<center><a href="../index.html#publications" class="button style1 big"> <p> &#x21A9;Publications</p></a><center>
+											
+										</section>
+
+										
+								
+									</div>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)">
+
+								<!-- Content -->
+									<div id="content">
+										<article class="box post">
+											
+<h3><u>Presentations</u></h3>
+ <li> <b> A Real-time Industrial Model using Time Processed Automata</b>, presented at the University of Waterloo. Waterloo, Canada. November, 2015. (<i>ECE-725 talk</i>)
+				
+				<li> <b> Embedded RTOS Implementation for Project STUDSAT-2</b>, presented at the University of Sanio. Benevento, Italy. June, 2015. (<i>IEEE Conference Presentation</i>)
+				<li> <b> Operational Flow for Twin Nano Satellite Mission</b>, presented at the University of Sanio. Benevento, Italy. June, 2015. (IEEE Conference Presentation)
+				<li> <b>Command & Data Handling for nano satellites</b>, presented at Nitte Meenakshi Institute of Technology. Bangalore, India. May, 2015. (Bachelor's Thesis presentation)
+        
+                
+				<li> <b>Micro-controller Based Remote Locator</b>, presented at 2nd International Conference on Emerging Research In Computing, Information, Communication And Applications. Bangalore, India. August 2014. (Conference Presentation)
+    
+				<li> <b>Performance Analysis Of Rectangular Patch Antenna Using Quarter Wave Feed Line And Coaxial Feed Line Methods For C- Band Radar Based Applications.</b>, presented at International Conference on Academic Research in Engineering, Science And Technology, Bangalore, India. February, 2015. (<i>Conference Presentation</i>)
+
+<li> <b>Mutual Coupling Reduction Between Planar Microstrip Patch Antennas By Using A Electromagnetic Band Gap Structures.</b>, presented at International Conference on Academic Research in Engineering, Science And Technology, Bangalore, India. February, 2015. (<i>Conference Presentation</i>)
+
+				<li> <b>Intelligent Wireless Video Monitoring System Using Computer.</b>, presented at the IRF International Conference. Bangalore, India. March 2014. (<i>Conference Presentation</i>)
+
+				<li> <b>Overview of Raspberry-Pi</b>, presented at Nitte Meenakshi Institute of Technology. February, 2013. (<i>Invited Talk</i>)
+
+<li> <b>Home Automation System using DTMF</b>, presented at Nitte Meenakshi Institute of Technology. Oct., 2012. (<i>Invited Talk</i>)	
+
+
+
+									</article>										
+										
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+
+		<style type="text/css">
+			img {
+				border: 3px solid grey;
+			}
+		</style>
+
+		<!-- Scripts -->
+
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+			<script src="../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../assets/js/skel.min.js"></script>
+			<script src="../assets/js/skel-viewport.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
